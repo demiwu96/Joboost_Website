@@ -1,4 +1,4 @@
-# Title
+# Joboost
 
 As the Covid-19 situation continues to evolve, Joboost is here to support job seekers who are looking for a job or career transition opportunities. Joboost offers the best and effective job posting site to help employers promoting job, sourcing talent and applicant tracking.
 
@@ -19,6 +19,18 @@ I want to be able to see all the posts I created
 I want to be able to see all resumes of a specific job post
 so that I can easily manage the hiring process
 ```
+## Getting Started
+
+### Installing
+
+In the root folder, run the following command to install the required npm package
+
+```
+npm install
+```
+## Running the tests
+
+Go to localhost:3000 on the browser to test the application
 
 ## Built With
 
